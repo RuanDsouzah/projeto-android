@@ -32,7 +32,7 @@ body{
     font-family: var(--fonte-padrao);
 }
 main{
-    min-width: 300px;
+    min-width: 250px;
     max-width: 1000px;
     margin: auto;
     margin-top: 10px;
@@ -78,14 +78,14 @@ header>P{
 nav{
     background-color: var(--cor5);
     padding: 10px;
+    margin: 0px;
     
 }
 nav>a{
-    margin-right: 5px;
-    margin-left: 5px;
+   
     color: white;
     font-weight: bold;
-    padding: 10px;
+    padding: 5px;
     transition-duration: .5s;
     text-decoration: none;
 }
