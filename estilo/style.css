@@ -87,9 +87,12 @@ nav>a{
    
     color: white;
     font-weight: bold;
+    margin-right: 5px;
+    margin-left: 5px;
     padding: 5px;
     transition-duration: .5s;
     text-decoration: none;
+    font-size: 2vw;
 }
 nav>a:hover{
     background-color: var(--cor2);
