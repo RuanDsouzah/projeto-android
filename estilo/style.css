@@ -77,11 +77,8 @@ header>P{
 }
 nav{
     background-color: var(--cor5);
-    padding: 5px;
+    padding: 10px;
     margin: 0px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: start;
 }
 nav>a{
    
